@@ -41,7 +41,7 @@ div{
 }
 .header_link:hover{
     transition-duration: 0.2s;
-    background-color: lightgray;
+    background-color: blueviolet;
 }
 #dualonn-icon{
     position: relative;
