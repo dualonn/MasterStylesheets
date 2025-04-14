@@ -23,7 +23,7 @@ div{
     flex-direction: row;
     align-items: center;
     justify-content: right;
-    background-color: rgb(20,60,150);
+    background-color: rgb(100,50,200);
 }
 .header_link{
     display: flex;
