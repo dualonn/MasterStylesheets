@@ -30,7 +30,8 @@ div{
     height: 100%;
     width: 25%;
     /*border-inline: 2px solid black;*/
-    font: 150% "Segoe UI", Tahoma, Geneva, Verdana, sans-serif, rgb(90,80,140);
+    font: 150% "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(90,80,140);
     text-align: center;
     justify-content: center;
     align-items: center;
